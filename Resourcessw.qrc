@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/sw">
+        <file>sw/bg.jpg</file>
+        <file>sw/adminlogin.jpg</file>
+        <file>sw/download.jpg</file>
+        <file>sw/sevenhabits.png</file>
+        <file>sw/the fault.jpg</file>
+        <file>sw/13reasons why.jpg</file>
+        <file>sw/thehunger.jpg</file>
+        <file>sw/all my sons.jpg</file>
+        <file>sw/the alchemist.jpg</file>
+        <file>sw/jane eyre.jpg</file>
+        <file>sw/the prisoner of zenda.jpg</file>
+        <file>sw/pygma.jpg</file>
+        <file>sw/romeo.jpg</file>
+        <file>sw/oliver twist.jpg</file>
+        <file>sw/bg22.jpg</file>
+        <file>sw/download (1).jpg</file>
+        <file>sw/images.jpg</file>
+        <file>sw/bk.txt</file>
+        <file>sw/12sd.jpg</file>
+        <file>sw/asd.jpg</file>
+        <file>sw/uiop.jpg</file>
+        <file>sw/used-books-store-2.jpg</file>
+        <file>sw/welcome.jpg</file>
+        <file>sw/datainfo.jpg</file>
+        <file>../../../Desktop/memname.txt</file>
+        <file>../../../Desktop/temp.txt</file>
+        <file>sw/memname.txt</file>
+        <file>sw/temp.txt</file>
+    </qresource>
+    <qresource prefix="/resourceee"/>
+</RCC>
